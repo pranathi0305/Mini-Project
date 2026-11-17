@@ -1,7 +1,8 @@
 # 🏏 IPL Database Management System 
 
-A **Flask + MySQL based IPL Database Management System** with an interactive **dashboard** for managing teams, players, matches, stadiums, and statistics. Unlike traditional SQL-only projects, this system provides a **web interface** where users can view, insert, update, and delete records seamlessly.
+An interactive **IPL Database Management System** built using Flask and MySQL, designed to simplify the management of IPL-related data through a user-friendly web interface. The application brings together teams, players, stadiums, matches, and performance statistics in one centralized platform.
 
+With features for viewing, inserting, updating, deleting, and managing records, the project demonstrates the practical application of database management concepts combined with full-stack web development.
 
 ## 🚀 Features
 
